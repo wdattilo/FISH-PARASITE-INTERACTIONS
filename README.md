@@ -8,6 +8,7 @@ In this data paper, we compiled all the available geographic information on fish
 ***Important: All data will be available in ECOLOGY repository. This mirror GITHUB repository will maintain updated versions of dataset, as well as all information generated using FISH-PARASITE interactions dataset.
 
 ***A-) Originators:***
+
 **i) Luis García-Prieto**, Departamento de Zoología, Instituto de Biología, Universidad Nacional Autónoma de México, A.P. 70-153, Ciudad de México CP 04510, Mexico.
 
 **ii) Wesley Dáttilo**, Red de Ecoetología, Instituto de Ecología A.C., Carretera Antigua a Coatepec 351, El Haya, Xalapa CP 91073, Veracruz, Mexico.
